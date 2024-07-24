@@ -50,6 +50,6 @@
 
 ![unfollow](https://github.com/user-attachments/assets/a1be661f-8ff7-4a16-9f3a-04b3a8d091f8)
 
-* better and imporved code
+* better and improved code
 
-thanks to  - [@berstend](https://github.com/berstend) and - [@macedonga](https://github.com/macedonga)
+* reference - [@berstend](https://gist.github.com/berstend/752e7b54fd0bbd8b672882459d149b60)   and    [@macedonga](https://gist.github.com/berstend/752e7b54fd0bbd8b672882459d149b60?permalink_comment_id=4716223#gistcomment-4716223)
