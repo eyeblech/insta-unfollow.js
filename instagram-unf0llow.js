@@ -12,7 +12,7 @@
       break;
     }
 
-    $next.scrollIntoViewIfNeeded();
+    $next.scrollIntoView({ block: "center", behavior: "instant" });
     $next.click();
     await delay(100);
 
